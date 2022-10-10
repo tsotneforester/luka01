@@ -1,0 +1,21 @@
+/* - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 200, 400, 600 */
+
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #4d4f62;
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #4d4f62;
+  text-align: center;
+}
